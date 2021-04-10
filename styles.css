@@ -8,7 +8,7 @@
 }
 
 div.nav-bar {
-    display: flex;
+    display: grid;
     justify-content: space-between;
     padding: 1rem 6rem;
     width: 100vw;
